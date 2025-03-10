@@ -1,3 +1,7 @@
+# This is the GUI version of the stock ticker built with tkinter.
+
+# $HOOD and $ACHR are hard-coded.
+
 #!/usr/bin/env python3
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox
