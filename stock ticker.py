@@ -1,4 +1,5 @@
 # This is a simple stock ticker -- custom crafted for the stocks I hold, using Yahoo Finance APIs
+# This is so I can run them whenever without needing to use Google or other tools on the web and get distracted.
 
 #!/usr/bin/env python3
 import yfinance as yf
